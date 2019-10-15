@@ -8,7 +8,80 @@
   <body>
     <div id="root">
       <h1>Hello world!</h1>
+    </div> <div id="welcome"  >
+      <h1>LANCESAR</h1>
+    
+      <img src="img/form1.png" alt="desplazamientoDeTres" id="img">
+      <label for="username">Username</label>
+    <input type="text" placeholder="Enter Username">
+    <!-- PASSWORD INPUT -->
+    <label for="password">Password</label>
+    <input type="password" placeholder="Enter Password">
+      
+        <button class="comensar" id="hello">INICIAR</button>
+      
+      
+  </div>
+  <div id ="barras" class="ocultar">
+    <ul>
+      <li><img src="img/form1.png" id="imginicio"></li>
+      <li><a href="#encriptar" id="barradecode">ENCRIPTAR</a></li>
+      <li><a href="#desencriptar" id="barraencode">DESENCRIPTAR</a></li>
+      <li><a href="https://mail.google.com/mail/u/0/#inbox">GMAIL</a></li>
+    </ul>
+  </div>
+    
+  <div  class="ocultar" id ="toshow">
+    <div id="coder" class="ocultar">
+      <form class="form1" >  
+        <h2 >UTI</h2>
+    
+        <p>N° de clave:</p>
+        <input type="number" placeholder="numero" id="num">
+      
+        <p>INGRESE SECTOR:</p>
+        <input type="text" placeholder="texto" id="nombresector">
+    
+        <p>INGRESE IP:</p>
+        <input type="text" placeholder="texto" id="ipordenador">
+        
+        <p>INGRESE CONTRASEÑA DEL ORDENADOR :</p>
+        <input type="text" placeholder="texto" id="contraseña">
+      </form>
+      <div class="fin form1"> 
+        <p>Datos cifrados:</p>
+        <textarea id="datoscifrados" ></textarea>
+        <p>  <button id="cifrado" class="btn">CIFRAR</button> </p>
+        <p>  <button id="limpiar" class="btn">LIMPIAR</button> </p>
+        
+      </div> 
     </div>
+      
+    <div id="coder1" class="ocultar">
+      <form class="form1" >  
+        <h2 class="title">UTI</h2>
+    
+        <p>N° de clave:</p>
+        <input type="number" placeholder="numero" id="desplazar">
+        
+        <p>Datos cifrados:</p>
+        <textarea id="Pcifrada" ></textarea>
+      </form>
+      
+      <div class="fin form1 "> 
+        <p>Datos a Dcifrados:</p>
+        <textarea id="Pdescifrada" ></textarea>
+        <p>  <button id="btndescifrado" class="btn ">DESCIFRAR</button> </p>
+        <p>  <button id="descifrado"  >LIMPIAR</button> </p>
+      </div> 
+    
+    </div>
+  </div>
+      
+
+  
+
+
     <script src="cipher.js"></script>
     <script src="index.js"></script>
   </body>

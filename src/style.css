@@ -1,0 +1,216 @@
+body{
+    background-image: url(img/fondo.PNG);
+    
+   }
+   .ocultar {
+     display: none;
+   }
+   ul li:first-child{
+     background-image: url(img/fondo.PNG);
+   
+    height: 20%;
+   
+   }
+   #imginicio{
+     width: 0%;
+     height: 100%;
+     display:block;
+     margin:auto;
+    
+   }
+   p{
+     
+     font-family: 'Agency FB';
+     font-size: 25px;
+     color:white;
+   }
+   
+   .form1 {
+   
+       width: 50%;
+       height: 100%;
+       border-radius: 10px;
+       padding: 20px;
+       border: 3px solid #008f99;
+       margin: 0 auto;
+       margin-top: 15px;
+       margin-bottom: 15px;
+       background-image: url(img/step.jpg);
+       box-shadow: 3px 3px 7px 1px;
+   
+     }
+     #toshow{
+       margin-left:20%;
+       padding:1px 16px;
+       height:1000px;
+       background-image: url(img/encritados-bell.jpg);
+     }
+     #coder{
+     
+       background-image: url(img/fondo.PNG);
+     }
+     #coder1{
+     
+       background-image: url(img/fondo.PNG);
+     }
+   
+     input[type=text], select {
+       width: 100%;
+       padding: 20px 40px;
+       margin: 6px 0;
+       display: inline-block;
+       border: 6px solid #ccc;
+       border-radius: 9px;
+       box-sizing: border-box;
+     }
+     input[type=number], select {
+       width: 30%;
+       padding: 20px 20px;
+       margin: 8px 0;
+       display: inline-block;
+       border: 6px solid #ccc;
+       border-radius: 4px;
+       box-sizing: border-box;
+     }
+     
+     input[type=submit] {
+       width: 100%;
+       background-color: #4CAF50;
+       color: white;
+       padding: 14px 20px;
+       margin: 8px 0;
+       border: none;
+       border-radius: 4px;
+       cursor: pointer;
+       align-content: center;
+     }
+     input[type="password"] {
+       width: 100%;
+       padding: 20px 20px;
+       margin: 8px 0;
+       display: inline-block;
+       border: 6px solid #ccc;
+       border-radius: 4px;
+       box-sizing: border-box;
+     }
+   label {
+       margin: 0;
+       padding: 0;
+       font-weight: bold;
+       display: block;
+       text-align: center;
+     }
+     button{
+       width: 50%;
+       
+       box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+       background-color:#07add4;
+       font-family: 'Erica One';
+       text-decoration:none;
+        
+       font-size: 30px;
+        color:white;
+        padding-top:20px;
+       padding-bottom:10px;
+       padding-left:4px;
+       padding-right:4px;
+       border-width: 7px;
+       border-style: solid;
+       border-radius:35px;
+       margin: 20px 180px;
+     }
+     
+     div {
+       border-radius: 5px;
+       
+       background-image: url(img/step.jpg)
+       padding: 20px;
+     }
+    
+   #fin{
+     width: 50%;
+     
+     border-radius: 10px;
+     padding: 20px;
+     border: 1px solid #008f99;
+     margin: 0 auto;
+     margin-top: 15px;
+     margin-bottom: 15px;
+     background-color:  yellowgreen;
+     box-shadow: 3px 3px 7px 1px;
+   }
+   textarea{
+     width: 50%;
+     height: 200px;
+     border-radius: 5px;
+     border:6px solid #dadada;
+     line-height:25px;
+     font-family: 'Noticia Text', serif;
+     padding-left: 5px;
+     outline-color:#0083ff;
+     margin: 20px 130px;
+   }
+   
+   /* CSS PARA BARRA */
+   
+   ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     width: 25%;
+     background-color:#9BCAE6 ;
+     position: fixed;
+     height: 100%;
+     overflow: auto;
+   }
+   
+   li a {
+     display: block;
+     color: #000;
+     padding: 8px 16px;
+     text-decoration: none;
+   }
+   
+   li a.active {
+     background-color: #4CAF50;
+     color: white;
+   }
+   
+   li a:hover:not(.active) {
+     background-color: #555;
+     color: white;
+   }
+   #welcome{
+     
+   
+       height: 700px;
+       padding: 6px;
+     
+      top:20px;
+     margin: 8% 30%;
+     width: 40%;
+       border-radius: 50px;
+     
+       border: 10px solid #15294C;
+       background-color: #EDF3F5 ;
+       box-shadow: 20px 30px 10px 10px;
+     
+     
+   }
+   
+   h1 {
+     font-family: 'Erica One', cursive;
+     font-size: 80px;
+     color:black ;
+     text-align: center;
+     line-height: 0px;
+     text-shadow: 0 1px 0#2684D8 ,
+                  0 2px 0 #2684D8 ,
+                  0 3px  #2684D8 ,
+                  0 4px 0 #2684D8 ,
+                  0 5px 0   #2684D8 ,
+                  0 10px 10px #2684D8 ;}
+   #img{
+    
+     margin: 20px 180px;
+   }
