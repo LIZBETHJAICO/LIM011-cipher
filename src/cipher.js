@@ -50,7 +50,7 @@ window.cipher = {
       } else if (convertAscii >= 97 && convertAscii <= 122) {
         // para minusculas
         datoscifrados += String.fromCharCode(
-          ((convertAscii - 97 - num+26*2)% 26) + 97
+          ((convertAscii - 122 - num)% 26) + 122
         );
       } else if (convertAscii >= 48 && convertAscii <= 57) {
         // para nmeros del 0 al 9
