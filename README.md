@@ -44,40 +44,40 @@ A continuación te presentamos los objetivos de aprendizaje de este proyecto. Re
 
 ### UX
 
-- [NO] Diseñar la aplicación pensando y entendiendo al usuario.
-- [SI] Crear prototipos para obtener feedback e iterar. 
-- [NO] Aplicar los principios de diseño visual (contraste, alineación, jerarquía). 
+- [] Diseñar la aplicación pensando y entendiendo al usuario.
+- [x] Crear prototipos para obtener feedback e iterar. 
+- [ ] Aplicar los principios de diseño visual (contraste, alineación, jerarquía). 
 
 ### HTML y CSS
 
-- [SI] Uso correcto de HTML semántico. 
-- [SI] Uso de selectores de CSS.
-- [SI] Construir tu aplicación respetando el diseño realizado (maquetación). 
+- [] Uso correcto de HTML semántico. 
+- [x] Uso de selectores de CSS.
+- [x] Construir tu aplicación respetando el diseño realizado (maquetación). 
 
 ### DOM
 
-- [SI] Uso de selectores del DOM. 
-- [SI] Manejo de eventos del DOM. 
-- [SI] Manipulación dinámica del DOM. 
+- [x] Uso de selectores del DOM. 
+- [x] Manejo de eventos del DOM. 
+- [] Manipulación dinámica del DOM. 
 
 ### Javascript
 
-- [SI] Manipulación de strings.
-- [SI] Uso de condicionales (if-else | switch). 
-- [SI] Uso de bucles (for | do-while).	
-- [SI] Uso de funciones (parámetros | argumentos | valor de retorno). 
-- [NO] Declaración correcta de variables (const & let).
+- [x] Manipulación de strings.
+- [x] Uso de condicionales (if-else | switch). 
+- [x] Uso de bucles (for | do-while).	
+- [x] Uso de funciones (parámetros | argumentos | valor de retorno). 
+- [] Declaración correcta de variables (const & let).
 
 ### Testing
-- [SI] Testeo de tus funciones.  (SI)
+- [x] Testeo de tus funciones.  (SI)
 
 ### Git y GitHub
-- [SI] Comandos de git (add | commit | pull | status | push). 
-- [SI] Manejo de repositorios de GitHub (clone | fork | gh-pages). 
+- [x] Comandos de git (add | commit | pull | status | push). 
+- [] Manejo de repositorios de GitHub (clone | fork | gh-pages). 
 
 ### Buenas prácticas de desarrollo
-- [NO] Uso de identificadores descriptivos (Nomenclatura | Semántica).  
-- [SI] Uso de linter para seguir buenas prácticas (ESLINT). 
+- [] Uso de identificadores descriptivos (Nomenclatura | Semántica).  
+- [x] Uso de linter para seguir buenas prácticas (ESLINT). 
 
 
 
