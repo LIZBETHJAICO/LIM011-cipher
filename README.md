@@ -10,6 +10,7 @@ LANCESAR fue creado con el objetivo de  encriptar y desencriptar los datos de un
 Los datos serán encriptados y  desencriptados  mediante una clave que será puesto por el usuario (numeros). El cual ayudará
 mantener con mayor seguridad la información en el área de Informática.
 ## PROTOTIPO 01
+![0](https://user-images.githubusercontent.com/50028765/66804284-b307ce00-eee7-11e9-9ae7-c098295562a5.PNG)
 
 ## PROTOTIPO BALSAMIQ
   ![6](https://user-images.githubusercontent.com/50028765/66795820-5f878700-eecb-11e9-88a2-bb263e3b3bb0.PNG)
