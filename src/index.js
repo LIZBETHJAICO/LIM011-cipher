@@ -1,5 +1,4 @@
-// sidebar toggle
-// trayendo variables DOM
+
 //Llamar todo lo que quiero dle formulario
 let btncifrar = document.getElementById("cifrado");
 let btndescifrar = document.getElementById("descifrado");

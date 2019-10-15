@@ -29,7 +29,7 @@ window.cipher = {
       } else {
         datoscifrados += datos.charAt(i);
       }
-      // debugger
+     // debugger 
       //document.getElementById('datoscifrados').value = datoscifrados;
     }
     return datoscifrados;

@@ -10,18 +10,15 @@ body{
     width: 0%;
     height: 100%;
     display:block;
-    margin:auto;
-   
+    margin:auto; 
   }
-  p{
-     
+  p{ 
     font-family: 'Agency FB';
     font-size: 25px;
     color:white;
   }
 
   .form1 {
-   
     width: 50%;
     height: 100%;
     border-radius: 10px;
@@ -32,7 +29,6 @@ body{
     margin-bottom: 15px;
     background-image: url(img/step.jpg);
     box-shadow: 3px 3px 7px 1px;
-
   }
 
   #toshow{
@@ -44,17 +40,13 @@ body{
   
    ul li:first-child{
      background-image: url(img/fondo.PNG);
-   
-    height: 20%;
-   
+     height: 20%;
    }
   
      #coder{
-     
        background-image: url(img/fondo.PNG);
      }
      #coder1{
-     
        background-image: url(img/fondo.PNG);
      }
      #user {
@@ -65,7 +57,6 @@ body{
         border: 6px solid #ccc;
         border-radius: 4px;
         box-sizing: border-box;
-        
         display: inline-block;
       }
       #userpass {
@@ -86,13 +77,12 @@ body{
        display: inline-block;
        border: 6px solid #ccc;
        border-radius: 9px;
-       box-sizing: border-box;
-     }
+       box-sizing: border-box;   
+       }
      input[type=number], select {
        width: 30%;
        margin:10px 25%;
        padding: 20px 20px;
-      
        display: inline-block;
        border: 6px solid #ccc;
        border-radius: 4px;
@@ -120,7 +110,6 @@ body{
        box-sizing: border-box;
      }
    label {
-
        margin: 0;
        padding: 0;
        font-weight: bold;
@@ -152,21 +141,18 @@ body{
                      0 5px 0   #2684D8 ,
                      0 10px 10px #2684D8 ;}
       #img{
-       
         margin: 20px 180px;
       }
       
      button{
        width: 35%;
-       
-       box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+       box-shadow: 0 12px 10px 0 rgba(0,0,0,0.1), 0 17px 50px 0 rgba(0,0,0,0.1);
        background-color:#07add4;
        font-family: 'Erica One';
-       text-decoration:none;
-        
+       text-decoration:none;  
        font-size: 30px;
-        color:white;
-        padding-top:20px;
+       color:white;
+       padding-top:20px;
        padding-bottom:10px;
        padding-left:4px;
        padding-right:4px;
@@ -190,7 +176,6 @@ body{
      margin: 0 auto;
      margin-top: 15px;
      margin-bottom: 15px;
-     background-color:  yellowgreen;
      box-shadow: 3px 3px 7px 1px;
    }
   
@@ -215,36 +200,26 @@ body{
      height: 120px;
      text-align: center;
      font-family: 'Secular One';
-     text-decoration:none;
-      
+     text-decoration:none; 
      font-size: 30px;
    }
    
-   li a.active {
-     background-color: #4CAF50;
-     color: white;
-   }
+   
    
    li a:hover:not(.active) {
      background-color: #555;
      color: white;
    }
    #welcome{
-     
-   
        height: 700px;
        padding: 6px;
-     
-      top:20px;
-     margin: 8% 30%;
-     width: 40%;
+       top:20px;
+       margin: 8% 30%;
+       width: 40%;
        border-radius: 50px;
-     
        border: 10px solid #15294C;
        background-color: #EDF3F5 ;
-       box-shadow: 20px 30px 10px 10px;
-     
-     
+       box-shadow: 20px 30px 10px 10px; 
    }
    
   
